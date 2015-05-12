@@ -3,3 +3,5 @@ this is a test
 with a change
 
 with a second change
+
+I made this change on GitHub!
